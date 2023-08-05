@@ -1,0 +1,1 @@
+!function(t){"use strict";t(document).ready((function(){t("body").on("change",'input[name="payment_method"]',(function(){t("body").trigger("update_checkout")})),t("#billing_state").length&&t("body").on("change","#billing_state",(function(){t("body").trigger("update_checkout")}))}))}(jQuery);

@@ -1,0 +1,24 @@
+.elementor-kit-5{--e-global-color-primary:#5DD3A0;--e-global-color-secondary:#00D7FF;--e-global-color-text:#FFFFFF;--e-global-color-accent:#E7E1D3;--e-global-typography-primary-font-family:"Matrice Regular";--e-global-typography-primary-font-size:33px;--e-global-typography-primary-font-weight:300;--e-global-typography-primary-text-transform:uppercase;--e-global-typography-secondary-font-family:"Matrice light";--e-global-typography-secondary-font-size:17px;--e-global-typography-secondary-font-weight:200;--e-global-typography-text-font-family:"Matrice";--e-global-typography-text-font-size:11px;--e-global-typography-text-font-weight:200;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-dc98348-font-family:"Matrice light";--e-global-typography-dc98348-font-size:16px;--e-global-typography-dc98348-font-weight:400;--e-global-typography-f5b6957-font-family:"Matrice light";--e-global-typography-f5b6957-font-size:16px;--e-global-typography-f5b6957-font-weight:400;--e-global-typography-4dda1cc-font-family:"Matrice light";--e-global-typography-4dda1cc-font-size:16px;--e-global-typography-4dda1cc-font-weight:400;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-5{--e-global-typography-dc98348-font-size:14px;--e-global-typography-dc98348-line-height:1.4em;--e-global-typography-f5b6957-font-size:14px;--e-global-typography-f5b6957-line-height:1.4em;--e-global-typography-4dda1cc-font-size:14px;--e-global-typography-4dda1cc-line-height:1.4em;--e-global-typography-4dda1cc-letter-spacing:1.3px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Matrice Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Matrice-Regular.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Matrice light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/matrice-light.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Matrice';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/matrice-extrabold.woff') format('woff');
+}
+/* End Custom Fonts CSS */
